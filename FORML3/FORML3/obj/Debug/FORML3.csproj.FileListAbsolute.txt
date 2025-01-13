@@ -1,0 +1,10 @@
+C:\Users\latitude\Desktop\C#\FORML3\FORML3\bin\Debug\FORML3.exe.config
+C:\Users\latitude\Desktop\C#\FORML3\FORML3\bin\Debug\FORML3.exe
+C:\Users\latitude\Desktop\C#\FORML3\FORML3\bin\Debug\FORML3.pdb
+C:\Users\latitude\Desktop\C#\FORML3\FORML3\obj\Debug\FORML3.csproj.AssemblyReference.cache
+C:\Users\latitude\Desktop\C#\FORML3\FORML3\obj\Debug\FORML3.Form1.resources
+C:\Users\latitude\Desktop\C#\FORML3\FORML3\obj\Debug\FORML3.Properties.Resources.resources
+C:\Users\latitude\Desktop\C#\FORML3\FORML3\obj\Debug\FORML3.csproj.GenerateResource.cache
+C:\Users\latitude\Desktop\C#\FORML3\FORML3\obj\Debug\FORML3.csproj.CoreCompileInputs.cache
+C:\Users\latitude\Desktop\C#\FORML3\FORML3\obj\Debug\FORML3.exe
+C:\Users\latitude\Desktop\C#\FORML3\FORML3\obj\Debug\FORML3.pdb
